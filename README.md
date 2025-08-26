@@ -25,7 +25,7 @@ Este repositório serve como base para estudantes explorarem e praticarem concei
 ├── styles
 │   └── style.css
 └── scripts
-    └── main.js
+    └── index.js
 ```
 
 ## ⚙️ Como Executar
